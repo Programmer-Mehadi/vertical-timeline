@@ -1,0 +1,20 @@
+{
+  "status": true,
+  "data": [
+    {
+      "startTime": "8:45",
+      "endTime": "03:45",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui at quidem consectetur nostrum maxime, dolores id eum veritatis quo blanditiis, assumenda, earum sapiente explicabo voluptas quaerat corporis. Eius possimus ex dolore quae, pariatur maxime illum"
+    },
+    {
+      "startTime": "8:45",
+      "endTime": "03:45",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui at quidem consectetur nostrum maxime, dolores id eum veritatis quo blanditiis, assumenda, earum sapiente explicabo voluptas quaerat corporis. Eius possimus ex dolore quae, pariatur maxime illum"
+    },
+    {
+      "startTime": "8:45",
+      "endTime": "03:45",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui at quidem consectetur nostrum maxime, dolores id eum veritatis quoblanditiis, assumenda, earum sapiente explicabo voluptas quaerat corporis. Eius possimus ex dolore quae, pariatur maxime illum"
+    }
+  ]
+}

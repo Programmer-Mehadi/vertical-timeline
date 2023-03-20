@@ -47,7 +47,8 @@
   border: 4px solid #00235b;
 }
 #vertical_timeline_container .vertical_timeline_body .child .right {
-  max-width: 400px;
+  width: 100%;
+  max-width: 500px;
   background-color: #0e8388;
   padding: 15px;
   border-radius: 8px;

@@ -25,18 +25,17 @@ const appendData = (data, index, maxIndex) => {
   createChildDiv.innerHTML = `
       <div class="left">
         <p>
-          10:00 <span class="circle"></span>
+          ${
+            data?.startTime ? data?.startTime : "---"
+          } <span class="circle"></span>
         </p>
         <p>
-          10:00 <span class="circle"></span>
+          ${data?.endTime ? data?.endTime : "---"} <span class="circle"></span>
         </p>
       </div>
       <div class="right">
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui at
-          quidem consectetur nostrum maxime, dolores id eum veritatis quo
-          blanditiis, assumenda, earum sapiente explicabo voluptas quaerat
-          corporis. Eius possimus ex dolore quae, pariatur maxime illum,
+          ${data?.content ? data?.content : "---"}
         </p>
       </div>
   `;
